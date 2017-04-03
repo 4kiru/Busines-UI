@@ -4,8 +4,8 @@
 		id          = "GUI app"
         version     = "1.0.0" >
 
-    <name>GUI</name>
-    <description>My 2nd mobile app with jQuery Mobile user interface</description>
+    <name>Business App UI</name>
+    <description>Business app with jquery ui</description>
     <author href="http://mypersonalwebsite.com" email="mateusz.salawa@gmail.com">
         Mateusz Salawa
 	</author>
